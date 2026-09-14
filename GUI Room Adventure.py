@@ -510,3 +510,4 @@ window.resizable(True, True)
 
 app = App(window)
 window.mainloop()
+
